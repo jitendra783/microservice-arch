@@ -3,7 +3,7 @@ name: Go Microservice CI/CD
 on:
   push:
     branches:
-      - main
+      - dev
 
 env:
   IMAGE_NAME: go-microservice
